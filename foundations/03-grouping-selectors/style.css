@@ -1,0 +1,15 @@
+.fst-click,
+.snd-click{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
+
+.fst-click{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.snd-click{
+    color:rgb(24, 8, 248);
+    background-color: rgb(255, 255, 0);
+}
