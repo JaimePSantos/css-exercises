@@ -1,0 +1,18 @@
+.odd-numb{
+   background-color:#ffc0cb;
+    font-family: Verdana, sans-serif;
+}
+
+.odd-numb.thrd-ele{
+    font-size: 36px;
+}
+
+#snd-ele{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#fth-ele{
+    background-color:rgb(124, 209, 150);
+    font-size: 24px;
+}
